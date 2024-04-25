@@ -14,15 +14,12 @@
 </div>
 
 ---
-### :man_technologist: About Me :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
-- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
+### :man_technologist: Sobre Mi :
+Soy Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Argentina.
 
-- :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
+- :telescope:  Trabajo como ingeniero de pruebas y contribuyo a proyectos de forma remota Dentro o Fuera de Argentina
 
-- :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kendell-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kendell-rodriguez-0b64aa213/)
+- :mailbox:Como llegar a mi : [![Linkedin Badge](https://img.shields.io/badge/-Kendell-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kendell-rodriguez-0b64aa213/)
 
 ---
 
@@ -41,6 +38,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudio" **alt="Git" width="40" height="40"/>
   
   
