@@ -1,5 +1,4 @@
 <div id="header" align="center">
- <img src="https://giphy.com/gifs/scaler-official-bugs-developer-qa-UPqYp2tj61XlBhlPbH" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/kendell-rodriguez-0b64aa213/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
