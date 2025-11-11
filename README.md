@@ -8,8 +8,8 @@
 
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<div align="left" style=""display: flex; align-items: justify-content: flex-start;">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=QA+analyst+asegura+calidad+en+cada+clic.;QA+Manual;QA+Automation&center=true&width=500&height=50"></a>
+<div align="left">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=QA+analyst+asegura+calidad+en+cada+clic.;QA+Manual;QA+Automation&center=true&width=500&height=35"></a>
   </div>
   <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -38,8 +38,11 @@ Soy Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/karatelabs/karatelabs-original.svg" title="karatelabs" **alt="karatelabs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Jmeter" **alt="Jmeter" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="playwright" **alt="playwright" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="40" height="40"/>
+
   
 </div>
 
