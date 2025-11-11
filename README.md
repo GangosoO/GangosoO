@@ -2,6 +2,7 @@
   <div id="badges">
     <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
     <a href="https://www.linkedin.com/in/kendell-rodriguez-0b64aa213/">
+      <h1 align="center">Hi 👋, Kendell Rodriguez</h1>
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -11,9 +12,8 @@
   </h1>
 </div>
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </div>
 
 ---
@@ -64,7 +64,7 @@ Soy Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
+
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
@@ -85,7 +85,7 @@ Soy Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+ 
 
   
   </td>
