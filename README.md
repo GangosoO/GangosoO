@@ -27,7 +27,7 @@ Soy Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :hammer_and_wrench: Languages and Dev Tools :
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,git,github,gitlab,idea,vscode,maven,nodejs," />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,git,github,gitlab,idea,vscode,maven,nodejs,mysql,postgres,aws" />
   </a>
 </p>
 
