@@ -1,18 +1,18 @@
 <div id="header" align="center">
   <div id="badges">
     <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-    <a target="_blank" href="https://www.linkedin.com/in/kendell-rodriguez-0b64aa213/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a></a>
-    <a href = "mailto:kendellrs22@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@kendell"  /></a>
+   <a href="https://www.linkedin.com/in/kendell-rodriguez-0b64aa213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kendell"/></a>
+  <a href = "mailto:kendellrs22@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@kendell"  /></a>
   <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Soy Kendell Rodriguez</h1>
   </div>
-  <h1>
- Ingeniero de pruebas | Explorando el mundo ilimitado de la tecnología
-    <br>
-  </h1>
-      <div align="center">
-   
-  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-</div>
+
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div align="left" style=""display: flex; align-items: justify-content: flex-start;">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=QA+analyst+asegura+calidad+en+cada+clic.;QA+Manual;QA+Automation&center=true&width=500&height=50"></a>
+  </div>
+  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
 
 ---
