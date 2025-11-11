@@ -6,7 +6,7 @@
       <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Soy Kendell Rodriguez</h1>
   </div>
   <h1>
- 
+ Ingeniero de pruebas | Explorando el mundo ilimitado de la tecnología
   </h1>
 </div>
 
